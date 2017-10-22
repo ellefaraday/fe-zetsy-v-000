@@ -26,12 +26,10 @@ body {
   font-size: 5em;
   padding-bottom: 10px;
   margin: 0 0 5px;
-  text-decoration: none;
 }
 
 #title:hover {
   color: rgba(106, 128, 122, 1);
-  text-decoration: none;
 }
 
 #featured-image {
@@ -66,11 +64,11 @@ h2 {
   padding: 1px;
 }
 
-a {
+.p-link {
   color: rgba(0, 129, 190, 1);
   text-decoration: none;
 }
 
-a:hover {
+.p-link:hover {
   text-decoration: underline;
 }
