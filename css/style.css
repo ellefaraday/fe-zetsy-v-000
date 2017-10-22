@@ -26,7 +26,7 @@ body {
   font-size: 5em;
 }
 
-img {
+#featured-image {
   border: 5px solid rgba(146, 174,	166, 1);
 }
 
@@ -40,4 +40,8 @@ h2 {
 
 footer {
   float:right;
+}
+
+.press-image {
+  border: 5px solid rgba(204, 204, 204, 1)
 }
