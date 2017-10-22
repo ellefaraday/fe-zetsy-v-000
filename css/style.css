@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 
 #title {
-  border-bottom: 1px solid rgba(146, 174, 166, 1);
+  border-bottom: 0.5px solid rgba(146, 174, 166, 1);
 }
 
 img {
