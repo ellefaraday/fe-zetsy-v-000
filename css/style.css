@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 
 #title {
-  border-bottom: .25px solid rgba(204, 204, 204, 1);
+  border-bottom: 1px solid rgba(204, 204, 204, 1);
   color: rgba(146, 174, 166, 1);
   font-family: "Baskerville", serif;
   font-size: 5em;
