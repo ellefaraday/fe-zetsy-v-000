@@ -28,6 +28,10 @@ body {
   margin: 0 0 5px;
 }
 
+#title:hover {
+  color: rgba(106, 128, 122, 1);
+}
+
 #featured-image {
   border: 5px solid rgba(146, 174,	166, 1);
 }
