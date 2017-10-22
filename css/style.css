@@ -23,6 +23,7 @@ body {
   border-bottom: .25px solid rgba(146, 174, 166, 1);
   color: rgba(146, 174, 166, 1);
   font-family: "Baskerville", serif;
+  font-size: 5em;
 }
 
 img {
