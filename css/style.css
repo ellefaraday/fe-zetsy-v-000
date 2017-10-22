@@ -46,3 +46,8 @@ footer {
   border: 5px solid rgba(204, 204, 204, 1);
   padding: 1px;
 }
+
+.press-image a:hover {
+  border: 5px solid rgba(106, 128, 122, 1);
+  padding: 1px;
+}
