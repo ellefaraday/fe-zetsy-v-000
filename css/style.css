@@ -30,6 +30,7 @@ body {
 
 #title:hover {
   color: rgba(106, 128, 122, 1);
+  text-decoration: none;
 }
 
 #featured-image {
