@@ -54,3 +54,11 @@ h2 {
   border: 5px solid rgba(106, 128, 122, 1);
   padding: 1px;
 }
+
+a {
+  color: rgba(0, 129, 190, 1);
+}
+
+a:hover {
+  text-decoration: underline;
+}
