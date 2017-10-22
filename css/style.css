@@ -37,3 +37,7 @@ p {
 h2 {
   color: rgba(106, 128, 122, 1);
 }
+
+footer {
+  float:right;
+}
