@@ -57,6 +57,7 @@ h2 {
 
 a {
   color: rgba(0, 129, 190, 1);
+  text-decoration: none;
 }
 
 a:hover {
