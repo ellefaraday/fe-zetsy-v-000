@@ -43,5 +43,6 @@ footer {
 }
 
 .press-image {
-  border: 5px solid rgba(204, 204, 204, 1)
+  border: 5px solid rgba(204, 204, 204, 1);
+  padding: 1px;
 }
