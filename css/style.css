@@ -47,7 +47,7 @@ footer {
   padding: 1px;
 }
 
-a:hover {
+.press-image:hover {
   border: 5px solid rgba(106, 128, 122, 1);
   padding: 1px;
 }
