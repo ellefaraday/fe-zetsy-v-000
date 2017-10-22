@@ -24,6 +24,7 @@ body {
   color: rgba(146, 174, 166, 1);
   font-family: "Baskerville", serif;
   font-size: 5em;
+  padding-bottom: 10px;
 }
 
 #featured-image {
