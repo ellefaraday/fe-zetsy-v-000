@@ -34,6 +34,8 @@ body {
 
 p {
   color: rgba(85, 85,	85, 1);
+  font-size: 1em;
+  margin: 0 0 20px 0;
 }
 
 h2 {
