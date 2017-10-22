@@ -34,6 +34,10 @@ body {
   text-decoration: none;
 }
 
+.title-link {
+  text-decoration: none;
+}
+
 #featured-image {
   border: 5px solid rgba(146, 174,	166, 1);
 }
